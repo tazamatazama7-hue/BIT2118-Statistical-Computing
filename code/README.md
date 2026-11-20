@@ -1,5 +1,19 @@
-# Python Source Code
+# BIT 2118 – Scientific Computing
 
-This folder contains the Python programs for the BIT 2118 Scientific Computing group 18 
+Python source files for Tasks 2–20 of the Scientific Computing group assignment.
 
-Each program demonstrates a scientific computing concept using Python.
+## Requirements
+Install the required libraries:
+
+```bash
+python -m pip install numpy scipy matplotlib
+```
+
+## Running a program
+Open a terminal in this folder and run, for example:
+
+```bash
+python Task_02_numpy_arrays_and_numerical_computation.py
+```
+
+Run each task separately. Some programs may display a graph.
