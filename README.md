@@ -1,2 +1,2 @@
-# BIT2118-Scientific-Computing
+# BIT2118-Statistical-Computing
 Scientific Computing Group 18
